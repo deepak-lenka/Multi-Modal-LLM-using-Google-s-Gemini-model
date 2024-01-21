@@ -1,0 +1,17 @@
+# Multi-Modal Completion Project
+
+## Overview
+
+This project demonstrates multi-modal completion using the Gemini model. It combines image display with multimodal completion for a set of images.
+
+## Prerequisites
+
+Before running the code, make sure you have the following installed:
+
+- Python 3.x
+- Dependencies listed in `requirements.txt`
+
+You can install the dependencies using the following command:
+
+```bash
+pip install -r requirements.txt
